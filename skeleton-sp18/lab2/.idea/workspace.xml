@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e017d58-da36-4e79-918f-0a9be9227e25" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/DebugPractice/DebugExercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/DebugPractice/DebugExercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DebugPractice/DebugExercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/DebugPractice/DebugExercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intlist/IntListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Intlist/IntListTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iA3Q8uInWC2DBK3hnwRwzHuWDX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.DebugExercise2">
+    <configuration name="DebugExercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DebugExercise1" />
+      <module name="lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DebugExercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DebugExercise2" />
+      <module name="lab2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DebugExercise1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DebugExercise2" />
+        <item itemvalue="Application.DebugExercise1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e017d58-da36-4e79-918f-0a9be9227e25" name="Default Changelist" comment="" />
+      <created>1601336549437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601336549437</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2564" y="7" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601336761195">
+      <screen x="1680" y="-367" width="2560" height="1331" />
+    </state>
+    <state x="2564" y="7" key="#com.intellij.execution.impl.EditConfigurationsDialog/1680.-367.2560.1331/0.23.1680.1027@1680.-367.2560.1331" timestamp="1601336761195" />
+    <state x="2837" y="137" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601336574924">
+      <screen x="1680" y="-367" width="2560" height="1331" />
+    </state>
+    <state x="2837" y="137" key="#com.intellij.ide.util.TreeClassChooserDialog/1680.-367.2560.1331/0.23.1680.1027@1680.-367.2560.1331" timestamp="1601336574924" />
+    <state width="1530" height="268" key="GridCell.Tab.0.bottom" timestamp="1601594980288">
+      <screen x="1680" y="-367" width="2560" height="1331" />
+    </state>
+    <state width="1530" height="268" key="GridCell.Tab.0.bottom/1680.-367.2560.1331/0.23.1680.1027@1680.-367.2560.1331" timestamp="1601594980288" />
+    <state width="1530" height="268" key="GridCell.Tab.0.center" timestamp="1601594980287">
+      <screen x="1680" y="-367" width="2560" height="1331" />
+    </state>
+    <state width="1530" height="268" key="GridCell.Tab.0.center/1680.-367.2560.1331/0.23.1680.1027@1680.-367.2560.1331" timestamp="1601594980287" />
+    <state width="1530" height="268" key="GridCell.Tab.0.left" timestamp="1601594980286">
+      <screen x="1680" y="-367" width="2560" height="1331" />
+    </state>
+    <state width="1530" height="268" key="GridCell.Tab.0.left/1680.-367.2560.1331/0.23.1680.1027@1680.-367.2560.1331" timestamp="1601594980286" />
+    <state width="1530" height="268" key="GridCell.Tab.0.right" timestamp="1601594980287">
+      <screen x="1680" y="-367" width="2560" height="1331" />
+    </state>
+    <state width="1530" height="268" key="GridCell.Tab.0.right/1680.-367.2560.1331/0.23.1680.1027@1680.-367.2560.1331" timestamp="1601594980287" />
+    <state width="1530" height="268" key="GridCell.Tab.1.bottom" timestamp="1601594980289">
+      <screen x="1680" y="-367" width="2560" height="1331" />
+    </state>
+    <state width="1530" height="268" key="GridCell.Tab.1.bottom/1680.-367.2560.1331/0.23.1680.1027@1680.-367.2560.1331" timestamp="1601594980289" />
+    <state width="1530" height="268" key="GridCell.Tab.1.center" timestamp="1601594980288">
+      <screen x="1680" y="-367" width="2560" height="1331" />
+    </state>
+    <state width="1530" height="268" key="GridCell.Tab.1.center/1680.-367.2560.1331/0.23.1680.1027@1680.-367.2560.1331" timestamp="1601594980288" />
+    <state width="1530" height="268" key="GridCell.Tab.1.left" timestamp="1601594980288">
+      <screen x="1680" y="-367" width="2560" height="1331" />
+    </state>
+    <state width="1530" height="268" key="GridCell.Tab.1.left/1680.-367.2560.1331/0.23.1680.1027@1680.-367.2560.1331" timestamp="1601594980288" />
+    <state width="1530" height="268" key="GridCell.Tab.1.right" timestamp="1601594980288">
+      <screen x="1680" y="-367" width="2560" height="1331" />
+    </state>
+    <state width="1530" height="268" key="GridCell.Tab.1.right/1680.-367.2560.1331/0.23.1680.1027@1680.-367.2560.1331" timestamp="1601594980288" />
+    <state x="2928" y="-72" key="SettingsEditor" timestamp="1601339592380">
+      <screen x="1680" y="-367" width="2560" height="1331" />
+    </state>
+    <state x="2928" y="-72" key="SettingsEditor/1680.-367.2560.1331/0.23.1680.1027@1680.-367.2560.1331" timestamp="1601339592380" />
+    <state x="3113" y="166" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601338295600">
+      <screen x="1680" y="-367" width="2560" height="1331" />
+    </state>
+    <state x="3113" y="166" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1680.-367.2560.1331/0.23.1680.1027@1680.-367.2560.1331" timestamp="1601338295600" />
+    <state x="3191" y="187" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601338115734">
+      <screen x="1680" y="-367" width="2560" height="1331" />
+    </state>
+    <state x="3191" y="187" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1680.-367.2560.1331/0.23.1680.1027@1680.-367.2560.1331" timestamp="1601338115734" />
+    <state x="3042" y="25" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601340408425">
+      <screen x="1680" y="-367" width="2560" height="1331" />
+    </state>
+    <state x="3042" y="25" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1680.-367.2560.1331/0.23.1680.1027@1680.-367.2560.1331" timestamp="1601340408425" />
+    <state x="3064" y="32" width="645" height="462" key="find.popup" timestamp="1601338170687">
+      <screen x="1680" y="-367" width="2560" height="1331" />
+    </state>
+    <state x="3064" y="32" width="645" height="462" key="find.popup/1680.-367.2560.1331/0.23.1680.1027@1680.-367.2560.1331" timestamp="1601338170687" />
+    <state x="3052" y="-28" width="670" height="58" key="search.everywhere.popup" timestamp="1601338403943">
+      <screen x="1680" y="-367" width="2560" height="1331" />
+    </state>
+    <state x="3052" y="-28" width="670" height="58" key="search.everywhere.popup/1680.-367.2560.1331/0.23.1680.1027@1680.-367.2560.1331" timestamp="1601338403943" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DebugPractice/DebugExercise1.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DebugPractice/DebugExercise2.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
